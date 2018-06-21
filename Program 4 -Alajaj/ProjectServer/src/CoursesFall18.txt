@@ -1,0 +1,9 @@
+1111	Coding Club	3	Na Yu
+1514	Computer Science_1	4	Ghassan Azar
+4613	Computer Networks	3	David Brown
+2534	Data Structures	4	David Fawcett
+2514	Computer Science_2	4	Oriehi Anyaiwe
+3563	Game Design	3	Bryce Evans
+4663	Operating Systems	3	Cameron Beyer
+44	Basic Algebra	3	Ghassan Husseini
+2423	Differential Equations	3	Michael Dabkowski
